@@ -1,0 +1,9 @@
+banner=https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_1866,h_1050/v1613521717/assets/7a/fd8982-6884-49b9-bb5f-28e6ff2cc0e8/original/Rider_Home_bg_tablet.png
+
+auto=https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_168,h_168/v1649914471/assets/89/8e4239-5e7d-4de7-bf71-00cc32d468db/original/Auto-150X150p4x.png
+
+MotorCycle=https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_168,h_168/v1649914539/assets/86/82f8b3-e2e6-45f8-a8f7-fdc511f709e0/original/Moto-150X150p4x.png
+
+Rentals = https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_168,h_168/v1649914652/assets/8b/09e049-9f08-4397-a220-e4793ef8092f/original/Rentals-150X150p4x.png
+
+Intercity = https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_168,h_168/v1649914597/assets/f7/7f583f-447a-4cf7-8da6-6ad254f0a66b/original/Intercity-150X150p4x.png
